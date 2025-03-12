@@ -20,10 +20,10 @@
 
 or use options:
 
-./mywc -l filename.txt   # Count lines
-./mywc -w filename.txt   # Count words
-./mywc -c filename.txt   # Count characters
-./mywc filename1.txt filename2.txt  # Process multiple files
+- ./mywc -l filename.txt   # Count lines
+- ./mywc -w filename.txt   # Count words
+- ./mywc -c filename.txt   # Count characters
+- ./mywc filename1.txt filename2.txt  # Process multiple files
 
 ## Example Usage
 
