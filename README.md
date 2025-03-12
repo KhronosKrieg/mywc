@@ -16,6 +16,7 @@
 gcc mywc.c -o mywc
 
 ## Run the Program
+```sh
 
 ./mywc filename.txt
 
@@ -32,3 +33,4 @@ echo "Hello world!" | ./mywc
 
 output:
 Lines: 1  Words: 2  Characters: 13
+ 
