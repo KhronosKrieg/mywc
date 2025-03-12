@@ -12,11 +12,9 @@
 
 ## 🛠️ Installation
 ### **Compile the Program**
-```sh
-gcc mywc.c -o mywc
+ gcc mywc.c -o mywc
 
 ## Run the Program
-```sh
 
 ./mywc filename.txt
 
