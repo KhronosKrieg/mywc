@@ -15,7 +15,7 @@
 ```sh
 gcc mywc.c -o mywc
 
-###Run the Program
+### Run the Program
 
 ./mywc filename.txt
 
@@ -26,3 +26,9 @@ or use options:
 ./mywc -c filename.txt   # Count characters
 ./mywc filename1.txt filename2.txt  # Process multiple files
 
+### Example Usage
+
+echo "Hello world!" | ./mywc
+
+output:
+Lines: 1  Words: 2  Characters: 13
