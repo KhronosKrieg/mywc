@@ -1,9 +1,0 @@
-[<2;14;6Mhis is a Makefile, a script used to build and manage C/C++ projects. Here's a breakdown:
-
-Variables
-- CC: specifies the compiler to use (in this case, gcc for C programs)
-- CFLAGS: defines compiler flags (options)
-    - -g: adds debugging information to the executable
-    - -Wall: enables most compiler warnings
-- TARGET: specifies the name of the executable to build (in this case, mccwc)
-:
